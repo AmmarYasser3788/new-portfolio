@@ -10,7 +10,9 @@ export const metadata: Metadata = {
   description:
     "Experienced frontend developer specializing in React, Next.js, and modern web technologies. Creating beautiful, responsive, and user-friendly web experiences.",
     icons: {
-      icon: "/favicon.ico", 
+      icon: "/favicon.ico",      // normal favicon
+      shortcut: "/favicon.ico",  // browser shortcut icon
+      apple: "/favicon.png",   
     },
   keywords:
     "frontend developer, react developer, next.js, web development, portfolio, javascript, typescript",
