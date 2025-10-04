@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website built with **Next.js** showcasing my projects, skills, and experience.
 
-![Portfolio Screenshot](assets/PortfolioPage.png)
+![Portfolio Screenshot](assets/ProjectsPage.png)
 
 ---
 
@@ -20,7 +20,7 @@ A modern, responsive portfolio website built with **Next.js** showcasing my proj
 
 | Home Page | Projects Page |
 |-----------|---------------|
-| ![Home](assets/HomePage.png) | ![Projects](assets/ProjectPage.png) |
+| ![Home](assets/HomePage.png) | ![Projects](assets/ProjectsPage.png) |
 
 
 
